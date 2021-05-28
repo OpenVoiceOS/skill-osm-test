@@ -12,7 +12,8 @@
     "systemDeps": false,
     "requirements": {
         "python": [
-            "json-requirements"
+            "json-requirements",
+            "awesome-pkg~=0.1"
         ],
         "system": {
             "all": ["json-pkg"]
