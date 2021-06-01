@@ -3,3 +3,4 @@ text_requirements
 #
 # commented_requirement_a
 #commented_requirement_b
+# versioned_requirement>=0.0.1
