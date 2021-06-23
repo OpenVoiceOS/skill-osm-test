@@ -11,15 +11,9 @@
     "warning": "",
     "systemDeps": false,
     "requirements": {
-        "python": [
-            "json-requirements"
-        ],
-        "system": {
-            "all": ["json-pkg"]
-        },
-        "skill": [
-            "json-skill"
-        ]
+        "python": [],
+        "system": {},
+        "skill": []
     },
     "incompatible_skills": [],
     "platforms": [
