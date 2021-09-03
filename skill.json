@@ -31,7 +31,7 @@
         "arm64",
         "arm"
     ],
-    "branch": "v0.2",
+    "branch": "v0.2.1",
     "license": "BSD",
     "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
     "category": "Daily",
