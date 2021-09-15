@@ -1,6 +1,6 @@
 {
     "title": "OSM Test Skill",
-    "url": "https://github.com/NeonDaniel/skill-osm-test",
+    "url": "https://github.com/OpenVoiceOS/tskill-osm_parsing",
     "summary": "Skill used to test OSM Parsing",
     "short_description": "Skill used to test OSM Parsing",
     "description": "This is a skill description",
@@ -38,6 +38,6 @@
         "NotARealSkill"
     ],
     "skillname": "OSM Test Skill",
-    "authorname": "NeonDaniel",
+    "authorname": "OpenVoiceOS",
     "foldername": "not-a-skill"
 }
